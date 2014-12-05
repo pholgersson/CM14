@@ -77,5 +77,8 @@ public class MyTree {
     }
     return root.calcSize();
   }
+  public int number()
+    return 1;
+  }
 }
 
