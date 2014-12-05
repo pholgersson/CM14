@@ -47,6 +47,7 @@ public class MyTree {
         }
         else {
           iter.setRightChild(node);
+          system.out.println("bugfix");
           return true;
         }
       }
