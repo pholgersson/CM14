@@ -28,6 +28,7 @@ public class MyNode {
    */
   public int getValue() {
     return value;
+det var här vi ändrade
   }
 sdkfsdkfsdfdfhsdgs
   /**
