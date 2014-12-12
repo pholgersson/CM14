@@ -47,6 +47,7 @@ public class MyTree {
         }
         else {
           iter.setRightChild(node);
+          system.out.println("bugfix");
           return true;
         }
       }
@@ -76,6 +77,9 @@ public class MyTree {
       return 0;
     }
     return root.calcSize();
+  }
+  public int number()
+    return 1;
   }
 }
 
