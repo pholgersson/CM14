@@ -7,7 +7,7 @@ package tree;
  * @see MyTree
  */
 public class MyNode {
-  private MyNode father;
+  private MyNode asdasdfa;
   private MyNode left;
   private MyNode right;
   private int value;

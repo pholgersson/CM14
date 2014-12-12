@@ -1,5 +1,5 @@
 package tree;
-
+//ÄNDRING
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
@@ -28,8 +28,9 @@ public class MyNode {
    */
   public int getValue() {
     return value;
+det var här vi ändrade
   }
-
+sdkfsdkfsdfdfhsdgs
   /**
    * Sets the vlaue of this node.
    *
