@@ -29,8 +29,14 @@ public class MyNode {
   public int getValue() {
     return value;
 det var här vi ändrade
+	int a = new Integer(4);
   }
-sdkfsdkfsdfdfhsdgs
+asdf
+fd
+f
+df
+hh
+
   /**
    * Sets the vlaue of this node.
    *
