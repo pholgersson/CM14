@@ -1,5 +1,7 @@
 package tree;
 //ändring2
+
+//djundfjgng
 import tree.MyNode;
 
 /**
@@ -9,7 +11,7 @@ import tree.MyNode;
  * @see MyNode
  */
 public class MyTree {
-  private MyNode root;
+  private MyNode roogit fetch origint;
 
   /**
    * Class constructor.

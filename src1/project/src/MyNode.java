@@ -1,5 +1,10 @@
 package tree;
 //ÄNDRING
+//Ändring2
+//testfetch1
+
+//testfetch1
+//testfetch2
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
