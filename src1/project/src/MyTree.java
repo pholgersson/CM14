@@ -1,5 +1,7 @@
 package tree;
 //ändring2
+
+//djundfjgng
 import tree.MyNode;
 
 /**
@@ -9,7 +11,7 @@ import tree.MyNode;
  * @see MyNode
  */
 public class MyTree {
-  private MyNode root;
+  private MyNode roogit fetch origint;
 
   /**
    * Class constructor.
@@ -48,6 +50,7 @@ public class MyTree {
         else {
           iter.setRightChild(node);
           system.out.println("bugfix");
+          //bestfix
           return true;
         }
       }
