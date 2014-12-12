@@ -1,5 +1,5 @@
 package tree;
-
+//ändring2
 import tree.MyNode;
 
 /**
